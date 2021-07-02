@@ -1,0 +1,38 @@
+.list-group {
+  padding-left: 15%;
+  padding-right: 15%;
+}
+.btn-primary {
+  color: white;
+  background-color: #30a7e3;
+  border: #30a7e3;
+  height: 35px;
+  width: 70px;
+  margin-bottom: 25px;
+}
+
+a {
+  margin-bottom: 15px;
+}
+
+.delete {
+  padding-left: 85px;
+  color: red !important;
+  font-weight: bold;
+  cursor: pointer;
+  list-style-type: none;
+}
+
+.add {
+  padding-left: 93%;
+  color: #30a7e3 !important;
+  font-weight: bold;
+  cursor: pointer;
+  list-style-type: none;
+}
+h5 {
+
+  font-weight: bold;
+  color: #30a7e3;
+}
+
